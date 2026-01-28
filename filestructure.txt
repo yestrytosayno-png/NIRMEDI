@@ -1,0 +1,9 @@
+/nirmedix-mock
+  index.html
+  about.html
+  pipeline.html
+  /assets
+    styles.css
+    script.js
+    logo-free.png
+    hero-free.jpg
